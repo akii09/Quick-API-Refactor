@@ -1,0 +1,23 @@
+{
+  "name": "quick-api-reafactor",
+  "version": "1.0.0",
+  "description": "This package helps for refactoring API quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akii09/Quick-API-Refactor.git"
+  },
+  "keywords": [
+    "quick-api-refactor",
+    "api-refactorer"
+  ],
+  "author": "Akash Pise (Akii)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akii09/Quick-API-Refactor/issues"
+  },
+  "homepage": "https://github.com/akii09/Quick-API-Refactor#readme"
+}
